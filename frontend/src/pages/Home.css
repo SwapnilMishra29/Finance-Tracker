@@ -1,0 +1,98 @@
+.home-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+  font-family: "Poppins", sans-serif;
+}
+
+.home-container h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+/* Add Transaction Button */
+.home-container a {
+  display: inline-block;
+  padding: 10px 16px;
+  margin-bottom: 20px;
+  background-color: #27ae60;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+}
+
+.home-container a:hover {
+  background-color: #219150;
+}
+
+/* Transaction List */
+.transaction-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.transaction-item {
+  background: white;
+  padding: 15px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s;
+}
+
+.transaction-item:hover {
+  transform: translateY(-2px);
+}
+
+.transaction-item span {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #34495e;
+}
+
+/* Action Buttons */
+.transaction-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.transaction-actions a {
+  padding: 6px 12px;
+  background: #3498db;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  transition: background 0.3s ease;
+}
+
+.transaction-actions a:hover {
+  background: #2d83c6;
+}
+
+.transaction-actions button {
+  padding: 6px 12px;
+  height: 30px;
+  background: #e74c3c;;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  transition: background 0.3s ease;
+}
+
+
+.transaction-actions button:hover {
+  background: #c0392b;
+}
