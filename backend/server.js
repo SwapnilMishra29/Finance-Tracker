@@ -1,4 +1,4 @@
-// mongodb+srv://mishraswapnil610:l2a9r1i0@cluster0.a26fksf.mongodb.net/?
+
 require('dotenv').config();
 const express = require('express');
 const app = express();
