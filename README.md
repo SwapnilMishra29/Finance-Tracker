@@ -72,6 +72,10 @@ Finance-Tracker/
 
 ### Edit or delete transactions as needed.
 
-License
+## License
 
 This project is open source and free to use.
+
+### Some guidance for coding and project structure was obtained using AI tools like ChatGPT, 
+but all code was implemented and tested by me.
+
