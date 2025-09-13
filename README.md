@@ -1,8 +1,8 @@
-#Finance Tracker
+# Finance Tracker
 
-A simple personal finance tracker built with the MERN stack. It allows users to add, edit, and delete transactions, and keeps track of income, expenses, and savings.
+ A simple personal finance tracker built with the MERN stack. It allows users to add, edit, and delete transactions, and keeps track of income, expenses, and savings.
 
-Features
+## Features
 
 Add, edit, and delete transactions.
 
@@ -12,7 +12,7 @@ Track income, expenses, and savings.
 
 Responsive design for easy use on desktop and mobile.
 
-Tech Stack
+## Tech Stack
 
 Frontend: React, React Router
 
@@ -22,7 +22,7 @@ Database: MongoDB
 
 Styling: CSS
 
-Installation
+## Installation
 
 Clone the repository
 
@@ -30,7 +30,7 @@ git clone https://github.com/your-username/finance-tracker.git
 cd finance-tracker
 
 
-Backend setup
+### Backend setup
 
 cd backend
 npm install
@@ -46,7 +46,7 @@ Start the backend:
 npm start
 
 
-Frontend setup
+### Frontend setup
 
 cd ../frontend
 npm install
@@ -55,22 +55,22 @@ npm start
 
 The frontend will run on http://localhost:3000 by default.
 
-Folder Structure
+## Folder Structure
 Finance-Tracker/
   ├── backend/       # Node.js + Express API
   ├── frontend/      # React app
   ├── .gitignore
   └── README.md
 
-Usage
+### Usage
 
-Open the app in your browser.
+### Open the app in your browser.
 
-Click Add Transaction to add a new income or expense.
+### Click Add Transaction to add a new income or expense.
 
-View your transactions on the home page.
+### View your transactions on the home page.
 
-Edit or delete transactions as needed.
+### Edit or delete transactions as needed.
 
 License
 
