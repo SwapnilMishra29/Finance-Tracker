@@ -1,4 +1,4 @@
-##Finance Tracker
+#Finance Tracker#
 
 A simple personal finance tracker built with the MERN stack. It allows users to add, edit, and delete transactions, and keeps track of income, expenses, and savings.
 
